@@ -71,6 +71,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("darallpoints")),
     "Team": localStorage.getItem("darallteam")
   },{
+    "Name": "Darius Martin",
+    "Points": parseInt(localStorage.getItem("darmarpoints")),
+    "Team": localStorage.getItem("darmarteam")
+  },{
     "Name": "Evil Uno",
     "Points": parseInt(localStorage.getItem("eviunopoints")),
     "Team": localStorage.getItem("eviunoteam")
@@ -146,10 +150,6 @@ var wrestlers =
     "Name": "Penta El Zero M",
     "Points": parseInt(localStorage.getItem("penelpoints")),
     "Team": localStorage.getItem("penelteam")
-  },{
-    "Name": "Penelope Ford",
-    "Points": parseInt(localStorage.getItem("penforpoints")),
-    "Team": localStorage.getItem("penforteam")
   },{
     "Name": "Powerhouse Hobbes",
     "Points": parseInt(localStorage.getItem("powhobpoints")),
