@@ -73,15 +73,15 @@ var wrestlers =
   },{
     "Name": "Evil Uno",
     "Points": parseInt(localStorage.getItem("eviunopoints")),
-    "Team": localStorage.getItem("eviunolteam")
+    "Team": localStorage.getItem("eviunoteam")
   },{
     "Name": "Ethan Page",
     "Points": parseInt(localStorage.getItem("ethpagpoints")),
-    "Team": localStorage.getItem("ethpaglteam")
+    "Team": localStorage.getItem("ethpagteam")
   },{
     "Name": "Hikaru Shida",
     "Points": parseInt(localStorage.getItem("hikshipoints")),
-    "Team": localStorage.getItem("hikshilteam")
+    "Team": localStorage.getItem("hikshiteam")
   },{
     "Name": "Hook",
     "Points": parseInt(localStorage.getItem("hoopoints")),
@@ -121,7 +121,7 @@ var wrestlers =
   },{
     "Name": "Malakai Black",
     "Points": parseInt(localStorage.getItem("malblapoints")),
-    "Team": localStorage.getItem("malbalteam")
+    "Team": localStorage.getItem("malblateam")
   },{
     "Name": "Matt Jackson",
     "Points": parseInt(localStorage.getItem("matjacpoints")),
