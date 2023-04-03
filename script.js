@@ -7,7 +7,7 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("adacolpoints")),
     "Team": localStorage.getItem("adacolteam")
   },{
-    "Name": "Adam Paige",
+    "Name": "Adam Page",
     "Points": parseInt(localStorage.getItem("adapaipoints")),
     "Team": localStorage.getItem("adapaiteam")
   },{
