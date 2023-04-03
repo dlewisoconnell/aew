@@ -23,13 +23,13 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("ausgunpoints")),
     "Team": localStorage.getItem("ausgunteam")
   },{
-    "Name": "Brodie King",
-    "Points": parseInt(localStorage.getItem("brokinpoints")),
-    "Team": localStorage.getItem("brokinteam")
-  },{
     "Name": "Britt Baker",
     "Points": parseInt(localStorage.getItem("bribakpoints")),
     "Team": localStorage.getItem("bribakteam")
+  },{
+    "Name": "Brodie King",
+    "Points": parseInt(localStorage.getItem("brokinpoints")),
+    "Team": localStorage.getItem("brokinteam")
   },{
     "Name": "Bryan Danielson",
     "Points": parseInt(localStorage.getItem("brydanpoints")),
