@@ -192,8 +192,8 @@ var wrestlers =
     "Team": localStorage.getItem("stiteam")
   },{
     "Name": "Stu Grayson",
-    "Points": parseInt(localStorage.getItem("stugrepoints")),
-    "Team": localStorage.getItem("stugreteam")
+    "Points": parseInt(localStorage.getItem("stugrapoints")),
+    "Team": localStorage.getItem("stugrateam")
   },{
     "Name": "Toni Storm",
     "Points": parseInt(localStorage.getItem("tonstopoints")),
