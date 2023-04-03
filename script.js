@@ -123,6 +123,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("kenomepoints")),
     "Team": localStorage.getItem("kenometeam")
   },{
+    "Name": "Konosuke Takeshita",
+    "Points": parseInt(localStorage.getItem("kontakpoints")),
+    "Team": localStorage.getItem("kontakteam")
+  },{
     "Name": "Malakai Black",
     "Points": parseInt(localStorage.getItem("malblapoints")),
     "Team": localStorage.getItem("malblateam")
