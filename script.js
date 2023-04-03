@@ -8,8 +8,8 @@ var wrestlers =
     "Team": localStorage.getItem("adacolteam")
   },{
     "Name": "Adam Page",
-    "Points": parseInt(localStorage.getItem("adapaipoints")),
-    "Team": localStorage.getItem("adapaiteam")
+    "Points": parseInt(localStorage.getItem("adapagpoints")),
+    "Team": localStorage.getItem("adapagteam")
   },{
     "Name": "Alex Reynolds",
     "Points": parseInt(localStorage.getItem("alereypoints")),
