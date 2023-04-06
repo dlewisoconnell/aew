@@ -99,6 +99,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("jayletpoints")),
     "Team": localStorage.getItem("jayletteam")
   },{
+    "Name": "Jay White",
+    "Points": parseInt(localStorage.getItem("jaywhipoints")),
+    "Team": localStorage.getItem("jaywhiteam")
+  },{
     "Name": "Jade Cargill",
     "Points": parseInt(localStorage.getItem("jadcarpoints")),
     "Team": localStorage.getItem("jadcarteam")
