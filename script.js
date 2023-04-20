@@ -123,6 +123,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("junboypoints")),
     "Team": localStorage.getItem("junboyteam")
   },{
+    "Name": "Keith Lee",
+    "Points": parseInt(localStorage.getItem("keileepoints")),
+    "Team": localStorage.getItem("keileeteam")
+  },{
     "Name": "Kenny Omega",
     "Points": parseInt(localStorage.getItem("kenomepoints")),
     "Team": localStorage.getItem("kenometeam")
@@ -159,7 +163,7 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("penelpoints")),
     "Team": localStorage.getItem("penelteam")
   },{
-    "Name": "Powerhouse Hobbes",
+    "Name": "Powerhouse Hobbs",
     "Points": parseInt(localStorage.getItem("powhobpoints")),
     "Team": localStorage.getItem("powhobteam")
   },{
@@ -199,6 +203,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("stugrapoints")),
     "Team": localStorage.getItem("stugrateam")
   },{
+    "Name": "Swerve Strickland",
+    "Points": parseInt(localStorage.getItem("swestrpoints")),
+    "Team": localStorage.getItem("swestrteam")
+  },{
     "Name": "Toni Storm",
     "Points": parseInt(localStorage.getItem("tonstopoints")),
     "Team": localStorage.getItem("tonstoteam")
@@ -210,6 +218,10 @@ var wrestlers =
     "Name": "Wheeler Yuta",
     "Points": parseInt(localStorage.getItem("wheyutpoints")),
     "Team": localStorage.getItem("wheyutteam")
+  },{
+    "Name": "Wardlow",
+    "Points": parseInt(localStorage.getItem("warpoints")),
+    "Team": localStorage.getItem("warteam")
   },{
     "Name": "Willow Nightingale",
     "Points": parseInt(localStorage.getItem("wilnigpoints")),
