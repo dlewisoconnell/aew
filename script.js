@@ -44,8 +44,8 @@ var wrestlers =
     "Team": localStorage.getItem("caswheteam")
   },{
     "Name": "Chris Jericho",
-    "Points": parseInt(localStorage.getItem("clacaspoints")),
-    "Team": localStorage.getItem("clacasteam")
+    "Points": parseInt(localStorage.getItem("chrjerpoints")),
+    "Team": localStorage.getItem("chrjerteam")
   },{
     "Name": "Chuck Taylor",
     "Points": parseInt(localStorage.getItem("chutaypoints")),
