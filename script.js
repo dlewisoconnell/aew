@@ -10,7 +10,7 @@ var wrestlers =
     "Name": "Adam Page",
     "Points": parseInt(localStorage.getItem("adapagpoints")),
     "Team": localStorage.getItem("adapagteam")
-  },,{
+  },{
     "Name": "Anthony Bowens",
     "Points": parseInt(localStorage.getItem("antbowpoints")),
     "Team": localStorage.getItem("antbowteam")
@@ -210,7 +210,7 @@ var wrestlers =
     "Name": "Wardlow",
     "Points": parseInt(localStorage.getItem("warpoints")),
     "Team": localStorage.getItem("warteam")
-  },
+  }
 ];
 
 const team1 = localStorage.getItem('team1name');
