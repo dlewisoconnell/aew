@@ -10,11 +10,7 @@ var wrestlers =
     "Name": "Adam Page",
     "Points": parseInt(localStorage.getItem("adapagpoints")),
     "Team": localStorage.getItem("adapagteam")
-  },{
-    "Name": "Alex Reynolds",
-    "Points": parseInt(localStorage.getItem("alereypoints")),
-    "Team": localStorage.getItem("alereyteam")
-  },{
+  },,{
     "Name": "Anthony Bowens",
     "Points": parseInt(localStorage.getItem("antbowpoints")),
     "Team": localStorage.getItem("antbowteam")
@@ -75,10 +71,6 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("darmarpoints")),
     "Team": localStorage.getItem("darmarteam")
   },{
-    "Name": "Evil Uno",
-    "Points": parseInt(localStorage.getItem("eviunopoints")),
-    "Team": localStorage.getItem("eviunoteam")
-  },{
     "Name": "Ethan Page",
     "Points": parseInt(localStorage.getItem("ethpagpoints")),
     "Team": localStorage.getItem("ethpagteam")
@@ -110,10 +102,6 @@ var wrestlers =
     "Name": "Jeff Jarrett",
     "Points": parseInt(localStorage.getItem("jefjarpoints")),
     "Team": localStorage.getItem("jefjarteam")
-  },{
-    "Name": "John Silver",
-    "Points": parseInt(localStorage.getItem("johsilpoints")),
-    "Team": localStorage.getItem("johsilteam")
   },{
     "Name": "Jon Moxley",
     "Points": parseInt(localStorage.getItem("jonmoxpoints")),
@@ -222,10 +210,6 @@ var wrestlers =
     "Name": "Wardlow",
     "Points": parseInt(localStorage.getItem("warpoints")),
     "Team": localStorage.getItem("warteam")
-  },{
-    "Name": "Willow Nightingale",
-    "Points": parseInt(localStorage.getItem("wilnigpoints")),
-    "Team": localStorage.getItem("wilnigteam")
   },
 ];
 
