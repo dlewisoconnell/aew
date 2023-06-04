@@ -1,7 +1,24 @@
-AEW Watch-Along is a web-based game for fans of All Elite Wrestling (AEW) to play while watching AEW events. Users can create up to four teams, draft AEW wrestlers to their teams, and update their scores based on the outcome of each match. 
+# AEW Watch-Along
 
-The game is built using a series of inputs, dropdown menus and buttons controlling various local storage keys and values. The local storage corresponds to an array made up of wrestler's names set to their team and point, which is generated in javascript. 
+AEW Watch-Along is a web-based game for fans of All Elite Wrestling (AEW) to play while watching AEW events. Users can create up to four teams, draft AEW wrestlers to their teams, and update their scores based on the outcome of each match.
 
-Each teams points are added up and displayed on the scoreboard, along with a list of the wrestlers, their team and their points. Along with the names being being searchable, if you click each category (Name, Points, and Team), the list will be sorted by that category. 
+## Usage
 
-The CSS uses a gradient of colors matching those used in the official AEW logo at the top of the page to be visually appealing and while made with mobile in mind, the website looks great on desktop as well due to it's responsive design. 
+To use the application, follow these steps:
+
+1. Open the `index.html` file in a web browser.
+2. Create teams by entering team names in the input fields.
+3. Use the dropdown menus to select a wrestler and assign them to a team.
+4. Update the scores by clicking on the "+" and "-" buttons next to each wrestler's name.
+5. The scoreboard will automatically update to show the total points for each team.
+6. The wrestler list can be sorted by clicking on the category headers (Name, Points, and Team).
+7. Use the search bar to filter the wrestler list by name.
+
+## Features
+
+- Create up to four teams and assign wrestlers to teams.
+- Update scores for each wrestler.
+- Sort the wrestler list by name, points, or team.
+- Filter the wrestler list by name.
+- Responsive design for optimal viewing on mobile and desktop devices.
+- Visual appeal with a gradient color scheme inspired by the official AEW logo.
