@@ -51,6 +51,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("clacaspoints")),
     "Team": localStorage.getItem("clacasteam")
   },{
+    "Name": "CM Punk",
+    "Points": parseInt(localStorage.getItem("cmpunpoints")),
+    "Team": localStorage.getItem("cmpunteam")
+  },{
     "Name": "Colten Gunn",
     "Points": parseInt(localStorage.getItem("colgunpoints")),
     "Team": localStorage.getItem("colgunteam")
@@ -123,6 +127,10 @@ var wrestlers =
     "Points": parseInt(localStorage.getItem("kontakpoints")),
     "Team": localStorage.getItem("kontakteam")
   },{
+    "Name": "Kris Statlander",
+    "Points": parseInt(localStorage.getItem("kristapoints")),
+    "Team": localStorage.getItem("kristateam")
+  },{
     "Name": "Malakai Black",
     "Points": parseInt(localStorage.getItem("malblapoints")),
     "Team": localStorage.getItem("malblateam")
@@ -134,6 +142,10 @@ var wrestlers =
     "Name": "Max Caster",
     "Points": parseInt(localStorage.getItem("maxcaspoints")),
     "Team": localStorage.getItem("maxcasteam")
+  },{
+    "Name": "Miro",
+    "Points": parseInt(localStorage.getItem("mirpoints")),
+    "Team": localStorage.getItem("mirteam")
   },{
     "Name": "MJF",
     "Points": parseInt(localStorage.getItem("mjfpoints")),
@@ -174,6 +186,10 @@ var wrestlers =
     "Name": "Rush",
     "Points": parseInt(localStorage.getItem("ruspoints")),
     "Team": localStorage.getItem("rusteam")
+  },{
+    "Name": "Samoa Joe",
+    "Points": parseInt(localStorage.getItem("samjoepoints")),
+    "Team": localStorage.getItem("samjoeteam")
   },{
     "Name": "Sammy Guevara",
     "Points": parseInt(localStorage.getItem("samguepoints")),
