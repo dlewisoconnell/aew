@@ -148,8 +148,8 @@ var wrestlers =
     "Team": localStorage.getItem("malblateam")
   },{
     "Name": "Mark Briscoe",
-    "Points": parseInt(localStorage.getItem("markbripoints")),
-    "Team": localStorage.getItem("markbriteam")
+    "Points": parseInt(localStorage.getItem("marbripoints")),
+    "Team": localStorage.getItem("marbriteam")
   },{
     "Name": "Matt Jackson",
     "Points": parseInt(localStorage.getItem("matjacpoints")),
