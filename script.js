@@ -188,7 +188,7 @@ var wrestlers =
     "Team": localStorage.getItem("reyfénteam")
   },{
     "Name": "Ricky Starks",
-    "Points": parseInt(localStorage.getItem("ricstafénpoints")),
+    "Points": parseInt(localStorage.getItem("ricstapoints")),
     "Team": localStorage.getItem("ricstateam")
   },{
     "Name": "Riho",
